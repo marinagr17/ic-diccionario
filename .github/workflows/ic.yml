@@ -4,7 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v1    #clonar el repo en el contenedor
     - name: apt
       run: sudo apt-get install aspell-es 
     - name: spell
