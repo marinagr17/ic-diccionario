@@ -1,8 +1,8 @@
 # Prueba
 
-Hola, esto es una preba
+Hola, esto es una prueba
 
-Ejemplo de integración continua para
+Ejemplo de integración continuax para
 
 * Esto es una prueba
 * Esto es un ejemplo
